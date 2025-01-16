@@ -1,7 +1,8 @@
 # Hi! I'm Zill.
 🔭 A newbie who just started<br>🌱 I’m currently learning Python<br>💬 Let's connect w me!</br>
 </br>
-![𝐋𝐢𝐧𝐤 𝐜𝐥𝐢𝐜𝐤  _𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑡𝑜------𝑚𝑦 ℎ𝑜𝑢𝑠𝑒__ (2)](https://github.com/user-attachments/assets/54d71bcb-83c2-44af-bb49-9b1cd12099bc)
+![𝐋𝐢𝐧𝐤 𝐜𝐥𝐢𝐜𝐤  _𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑡𝑜------𝑚𝑦 ℎ𝑜𝑢𝑠𝑒](https://github.com/user-attachments/assets/0b145625-fc88-4475-9137-234e87c4627f)
+
 
 
 
